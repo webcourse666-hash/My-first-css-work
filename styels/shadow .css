@@ -1,0 +1,17 @@
+#chg{
+    box-shadow: 10px 5px 40px black;
+}
+#header{
+    background-color: rgb(247, 191, 9);
+    background-image: url('anime.jpg.avif');
+    background-size: cover;
+    height: 100px;
+}
+h1{
+    text-align: center ;
+    color: gold;
+}
+#p1{
+    text-align: center;
+    color: gold;
+}
