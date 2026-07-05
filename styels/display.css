@@ -1,0 +1,27 @@
+ 
+      *{
+        margin: 0px;
+      }
+      article{
+            background-color: rgb(230, 201, 173);
+            border: 5px solid black;
+            text-align: center;
+            margin: 10px 20px 5px 20px;
+            padding: 10px 20px 30px 20px;
+        }
+        
+        #chg{
+            display: none;
+        }
+        /* #chg2{ */
+            /* visibility: hidden; */
+        /* } */
+        span{
+             color: brown;
+             display: block;
+             border: 2px solid black;
+            }
+
+
+
+
